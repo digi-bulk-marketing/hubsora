@@ -1,9 +1,14 @@
 # HUBSORA
 
-- Rebranding ID: 6837057917204358f97a8877
-- User ID: 677bcf676ffe3839185316eb
-- App name: HUBSORA
-- Product name: Button Sender
+HUBSORA by HUBSORA AUTO ISRAEL.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/31393b4a-14d5-4553-a504-396d27b18a0e.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/31393b4a-14d5-4553-a504-396d27b18a0e.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/hubsora/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **HUBSORA** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/hubsora/releases/latest) and reinstall.
